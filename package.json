@@ -10,6 +10,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.9",
     "express": "^4.21.0",
     "zipurl": "^1.0.1"
   }
